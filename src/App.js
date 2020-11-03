@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> make changes and save to reload.Now remove.
+          -adding lines to check chnages in new branch.
         </p>
         <a
           className="App-link"
